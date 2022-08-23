@@ -62,6 +62,7 @@
         <module>modules/iam-policy-management</module>
         <module>modules/ibm-cloud-shell</module>
         <module>modules/open-service-broker</module>
+        <module>modules/partner-center-sell</module>
         <module>modules/posture-management</module>
         <module>modules/resource-controller</module>
         <module>modules/resource-manager</module>

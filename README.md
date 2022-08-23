@@ -61,6 +61,7 @@ Service Name | Artifact Coordinates
 [IAM Policy Management](https://cloud.ibm.com/apidocs/iam-policy-management?code=java) | com.ibm.cloud:iam-policy-management:0.26.0
 [IBM Cloud Shell](https://cloud.ibm.com/apidocs/cloudshell?code=java) | com.ibm.cloud:ibm-cloud-shell:0.26.0
 [Open Service Broker](https://cloud.ibm.com/apidocs/resource-controller/ibm-cloud-osb-api?code=java) | com.ibm.cloud:open-service-broker:0.26.0
+[Partner Center Sell](https://cloud.ibm.com/apidocs/partner-center-sell?code=java) | com.ibm.cloud:partner-center-sell:0.26.0
 [Posture Management](https://cloud.ibm.com/apidocs/security-compliance/posture?code=java) | com.ibm.cloud:posture_management:0.26.0
 [Resource Controller](https://cloud.ibm.com/apidocs/resource-controller/resource-controller?code=java) | com.ibm.cloud:resource-controller:0.26.0
 [Resource Manager](https://cloud.ibm.com/apidocs/resource-controller/resource-manager?code=java) | com.ibm.cloud:resource-manager:0.26.0
